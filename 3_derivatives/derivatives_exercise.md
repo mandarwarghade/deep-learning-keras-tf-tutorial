@@ -17,3 +17,4 @@ To find answers please refer to derivatives rules at https://www.mathsisfun.com/
 
 
 Thanks mathisfun.com for both of above exercises.
+
